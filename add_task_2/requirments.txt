@@ -1,0 +1,5 @@
+python3.7:
+	Flask 1.0.3
+ImageMagick 6.9.7-4
+UnZip 6.00
+

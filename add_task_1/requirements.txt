@@ -1,0 +1,6 @@
+mysql 14.14
+python3.7:
+    Flask 1.0.3
+    Flask-MySQLdb 0.2.0 (libmysqlclient-dev)
+    pandas 0.24.2
+
