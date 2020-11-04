@@ -1,4 +1,4 @@
-#Computer Security File Upload vulnerability example
+# Computer Security File Upload vulnerability example
 
 Using this web site in Flask, you can exploit file upload vulnerability.
 
@@ -6,6 +6,8 @@ Using this web site in Flask, you can exploit file upload vulnerability.
 
 
 *Run:*
+
 Run main.py with Python3
+
 website is accessible on  http://127.0.0.1:5000/
 
